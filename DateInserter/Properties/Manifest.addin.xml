@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+    <Extension path = "/MonoDevelop/Ide/Commands/Edit">
+        <Command id = "DateInserter.DateInserterCommands.obfuscate"
+                 _label = "Obfuscate"
+                 _description = "Obfuscator" 
+                  defaultHandler = "DateInserter.InsertDateHandler"/>
+    </Extension>
+
+    <Extension path = "/MonoDevelop/Ide/MainMenu/Edit">
+        <CommandItem id="DateInserter.DateInserterCommands.obfuscate" />
+    </Extension>
+</ExtensionModel>
