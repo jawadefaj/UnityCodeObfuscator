@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<AddinProject appVersion="2.4">
+	
+	<Project platforms="Win32">
+		<AddinFile>DateInserter/bin/Debug/DateInserter.dll</AddinFile>
+		<BuildFile>DateInserter.sln</BuildFile>
+		<BuildConfiguration>Debug</BuildConfiguration>
+	</Project>
+</AddinProject>

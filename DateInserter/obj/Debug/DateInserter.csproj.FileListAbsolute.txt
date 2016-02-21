@@ -1,0 +1,16 @@
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\DateInserter.dll
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\DateInserter.pdb
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\MonoDevelop.Refactoring.dll
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\mscorlib.dll
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\MonoDevelop.Refactoring.pdb
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\MonoDevelop.Refactoring.xml
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\normidna.nlp
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\normnfc.nlp
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\normnfd.nlp
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\normnfkc.nlp
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\bin\Debug\normnfkd.nlp
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\obj\Debug\MonoDevelop-Addin-Deps.g.cs
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\obj\Debug\_AddinFiles.addin.xml
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\obj\Debug\DateInserter.csprojResolveAssemblyReference.cache
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\obj\Debug\DateInserter.dll
+C:\Users\Shafayat\Documents\Projects\DateInserter\temp\DateInserter\obj\Debug\DateInserter.pdb
